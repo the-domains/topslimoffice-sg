@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ' '
-datePublished: '2016-06-17T10:59:42.780Z'
-dateModified: '2016-06-17T10:58:27.510Z'
+datePublished: '2016-06-17T11:04:32.077Z'
+dateModified: '2016-06-17T11:03:23.810Z'
 sourcePath: _posts/2016-06-17-topslimoffice.md
 author:
   - name: ''
@@ -15,8 +16,7 @@ title: Helping you get that perfect body ^^
 authors: []
 publisher: null
 starred: true
-url: helping-you-get-that-perfect-body/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Helping you get that perfect body ^^
