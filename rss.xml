@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TopSlimOffice SG]]></title>
+        <description><![CDATA[TopSlimOffice SG]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 17 Jun 2016 10:03:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Helping you get that perfect body ^^]]></title>
+            <description><![CDATA[<article><h1>Helping you get that perfect body ^^</h1><p> </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf9d3b85-674f-44d4-a2f6-f1843ba491f3.png"></article>]]></description>
+            <link>undefinedhelping-you-get-that-perfect-body/index.html</link>
+            <guid isPermaLink="false">64579036-0f5c-4130-8e33-a398298a1f62</guid>
+            <pubDate>Fri, 17 Jun 2016 10:03:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
