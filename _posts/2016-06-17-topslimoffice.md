@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-17T09:34:18.460Z'
+datePublished: '2016-06-17T09:36:39.870Z'
 sourcePath: _posts/2016-06-17-topslimoffice.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-17T09:32:45.494Z'
+dateModified: '2016-06-17T09:36:33.384Z'
 title: Helping you get that perfect body ^^
 publisher: null
 description: ' '
