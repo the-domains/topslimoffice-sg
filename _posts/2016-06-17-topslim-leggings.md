@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-17T14:11:16.340Z'
+datePublished: '2016-06-17T14:43:15.416Z'
 sourcePath: _posts/2016-06-17-topslim-leggings.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-17T14:11:08.063Z'
+dateModified: '2016-06-17T14:43:05.587Z'
 title: TopSlim Leggings
 publisher: null
 description: >-
