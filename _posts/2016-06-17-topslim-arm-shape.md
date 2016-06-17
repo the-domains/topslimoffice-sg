@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-17T14:02:44.545Z'
+datePublished: '2016-06-17T14:04:52.344Z'
 sourcePath: _posts/2016-06-17-topslim-arm-shape.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-17T13:59:42.785Z'
+dateModified: '2016-06-17T14:04:49.009Z'
 title: TopSlim Arm Shaper
 publisher: null
 description: Helps shape your big muscular droopy arms!
