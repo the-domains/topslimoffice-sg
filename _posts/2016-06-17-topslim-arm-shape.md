@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Helps shape your big muscular droopy arms!
-datePublished: '2016-06-17T11:06:22.509Z'
-dateModified: '2016-06-17T11:05:58.562Z'
+datePublished: '2016-06-17T11:10:38.181Z'
+dateModified: '2016-06-17T11:09:17.088Z'
 title: TopSlim Arm Shaper
 author:
   - name: ''
