@@ -5,11 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-17T11:11:08.299Z'
-dateModified: '2016-06-17T11:10:34.011Z'
-title: TopSlim Leggings
-author: []
+datePublished: '2016-06-17T11:25:25.944Z'
+dateModified: '2016-06-17T11:25:25.189Z'
 sourcePath: _posts/2016-06-17-topslim-leggings.md
+author: []
+title: TopSlim Leggings
 authors: []
 publisher: null
 starred: false
