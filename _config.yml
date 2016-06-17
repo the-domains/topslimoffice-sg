@@ -1,7 +1,7 @@
 name: TopSlimOffice SG
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.25535
+layout_spectrum: 0.7182414280250669
+typography_spectrum: 0.9294703274499625
 author:
   name: Brendan
 cta:
@@ -18,13 +18,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.10422494006343186
-  lightness: 0.12575087021104991
-  saturation: 0
-  rhythmicContrast: 0
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
+  brandStrength: 0.33648132998496294
+  lightness: 0.8379048046190292
+  saturation: 0.2605399733874947
+  rhythmicContrast: 0.5605330623220652
 purpose: []
