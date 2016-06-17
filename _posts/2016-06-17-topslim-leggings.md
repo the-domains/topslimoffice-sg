@@ -1,17 +1,19 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-06-17T11:25:25.944Z'
-dateModified: '2016-06-17T11:25:25.189Z'
+datePublished: '2016-06-17T12:11:22.292Z'
 sourcePath: _posts/2016-06-17-topslim-leggings.md
-author: []
-title: TopSlim Leggings
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-06-17T12:05:05.935Z'
+title: TopSlim Leggings
 publisher: null
+description: ''
+inLanguage: null
+inNav: true
 starred: false
 url: topslim-leggings/index.html
 _type: Article
@@ -20,3 +22,4 @@ _type: Article
 # TopSlim Leggings
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38f3e614-68d3-428a-926a-046f5201de7d.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/192b2f80-6b8f-41fd-929c-44b7133de863.png)
+![The weather is cold, but leggings warm you up. Japan leggings available for any occasions. Matches well with your clothes. Good and comfortable to wear](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74f184a0-35fa-45ac-ac42-0f338395aecf.png)
