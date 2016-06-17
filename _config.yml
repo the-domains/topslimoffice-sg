@@ -1,16 +1,30 @@
-layout_spectrum: 0.42597382445819676
+name: TopSlimOffice SG
+favicon: null
+layout_spectrum: 1
 typography_spectrum: 0.30422532372176647
+author:
+  name: Brendan
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.10422494006343186
-  lightness: 0.12575087021104991
-  saturation: 0.2593675176613033
-  rhythmicContrast: 0.1806870244909078
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-name: TopSlimOffice SG
-author:
-  name: Brendan
+  brandStrength: 0.10422494006343186
+  lightness: 0.12575087021104991
+  saturation: 0
+  rhythmicContrast: 0
+purpose: []
