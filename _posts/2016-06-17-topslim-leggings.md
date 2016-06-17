@@ -7,8 +7,8 @@ keywords: []
 description: >-
   The weather is cold, but leggings warm you up. Japan leggings available for
   any occasions. Matches well with your clothes. Good and comfortable to wear
-datePublished: '2016-06-17T12:46:52.087Z'
-dateModified: '2016-06-17T12:46:19.890Z'
+datePublished: '2016-06-17T12:50:10.886Z'
+dateModified: '2016-06-17T12:50:06.844Z'
 sourcePath: _posts/2016-06-17-topslim-leggings.md
 author:
   - name: ''
