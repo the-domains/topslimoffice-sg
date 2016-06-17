@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-17T12:11:22.292Z'
+datePublished: '2016-06-17T12:20:00.403Z'
 sourcePath: _posts/2016-06-17-topslim-leggings.md
 inFeed: true
 authors: []
@@ -8,10 +8,12 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-17T12:05:05.935Z'
+dateModified: '2016-06-17T12:19:48.008Z'
 title: TopSlim Leggings
 publisher: null
-description: ''
+description: >-
+  The weather is cold, but leggings warm you up. Japan leggings available for
+  any occasions. Matches well with your clothes. Good and comfortable to wear
 inLanguage: null
 inNav: true
 starred: false
@@ -20,6 +22,6 @@ _type: Article
 
 ---
 # TopSlim Leggings
+![The weather is cold, but leggings warm you up. Japan leggings available for any occasions. Matches well with your clothes. Good and comfortable to wear](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b2c8113-e978-4aa3-ae42-2c58960c6e29.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38f3e614-68d3-428a-926a-046f5201de7d.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/192b2f80-6b8f-41fd-929c-44b7133de863.png)
-![The weather is cold, but leggings warm you up. Japan leggings available for any occasions. Matches well with your clothes. Good and comfortable to wear](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74f184a0-35fa-45ac-ac42-0f338395aecf.png)
