@@ -1,0 +1,14 @@
+layout_spectrum: 0.42597382445819676
+typography_spectrum: 0.30422532372176647
+color:
+  brandStrength: 0.10422494006343186
+  lightness: 0.12575087021104991
+  saturation: 0.2593675176613033
+  rhythmicContrast: 0.1806870244909078
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: TopSlimOffice SG
