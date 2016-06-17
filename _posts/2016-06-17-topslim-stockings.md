@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-06-17T14:02:43.557Z'
+datePublished: '2016-06-17T14:04:01.820Z'
 sourcePath: _posts/2016-06-17-topslim-stockings.md
 inFeed: false
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-17T13:58:39.926Z'
+dateModified: '2016-06-17T14:03:55.840Z'
 title: TopSlim Stockings
 publisher: null
 description: >-
